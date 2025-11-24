@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/dixit/Documents/hotel-management-project",
-      "program": "c:/Users/dixit/Documents/hotel-management-project/build/Debug/outDebug",
+      "cwd": "c:/Users/dixit/Documents/hotel-management-project/.vscode/src",
+      "program": "c:/Users/dixit/Documents/hotel-management-project/.vscode/src/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

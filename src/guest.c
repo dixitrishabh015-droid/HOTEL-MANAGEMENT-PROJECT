@@ -46,7 +46,8 @@ void addGuest() {
 // Function to display all guest records
 void displayGuests() {
     if (totalGuests == 0) {
-        printf("\n⚠ No guest records found!\n");
+        printf("\nNo guest records found.\n");
+
         return;
     }
 
